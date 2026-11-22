@@ -149,6 +149,7 @@ project-*.mortgagechoice.com.au
 *.mobile.uscc.net
 *.mobile.uscc.com
 *.moengage.com
+*.engage.tesla.com
 *.myfourchette.com
 *.lafourchette.rest
 *.eltenedor.*
