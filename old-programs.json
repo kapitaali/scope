@@ -9471,17 +9471,17 @@
     "platform": "Bugcrowd",
     "reward": "$7500",
     "inscope_domains": [
-      "https://manager.trial.lsk.lightspeed.app/",
-      "https://mylightspeed.app",
-      "https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/"
+      "█████████████████████████████████████████",
+      "█████████████████",
+      "███████████████████████████████████████████████████████"
     ],
     "outofscope_domains": [
-      "https://lightspeedhq.com/trial ",
-      "https://pos-admin.trial.lsk.lightspeed.app"
+      "███████████████████████",
+      "██████████████████████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-23"
   },
   {
     "name": "Lightspeed Retail",
@@ -9490,27 +9490,27 @@
     "platform": "Bugcrowd",
     "reward": "$7500",
     "inscope_domains": [
-      "https://developers.retail.lightspeed.app",
-      "https://payment-connectors.vendhq.com/",
-      "https://store.retail.lightspeed.app",
-      "https://apps.apple.com/us/app/ecwid-ecommerce/id626731456",
-      "https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1",
-      "https://app.ecwid.com/api/v3/"
+      "█████████████████████████████████",
+      "█████████████████████████████",
+      "███████████████████████████",
+      "█████████████████████████████████████████████████████████",
+      "█████████████████████████████████████████████████████████████████████",
+      "██████████████████████████████"
     ],
     "outofscope_domains": [
-      "x-series-support.lightspeedhq.com",
-      "vendhq.force.com",
-      "vendimageuploadcdn.global.ssl.fastly.net",
-      "partners.vendhq.com",
-      "track.api.vendhq.com",
-      "your-store.vendecommerce.com",
-      "partnerportal.vendhq.com",
-      "https://support.ecwid.com/hc/en-us",
-      "https://www.ecwid.com/"
+      "█████████████████████████████████",
+      "████████████████",
+      "████████████████████████████████████████",
+      "███████████████████",
+      "████████████████████",
+      "████████████████████████████",
+      "████████████████████████",
+      "██████████████████████████████████",
+      "██████████████████████"
     ],
     "issues_reported": [],
     "scamhit": "",
-    "last_updated": "2026-10-08"
+    "last_updated": "2026-11-23"
   },
   {
     "name": "Lime",
@@ -14127,6 +14127,27 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "GCash Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/gcash_vdp",
+    "logo": "https://www.hackerone.com/themes/custom/hackerone/assets/favicons/favicon.ico",
+    "platform": "HackerOne",
+    "reward": "-",
+    "inscope_domains": [
+      "GCash",
+      "GCash",
+      "GCash Pera Outlet Plus",
+      "GCash PocketPay",
+      "fuselending.com",
+      "gcash.com",
+      "mynt.com.ph",
+      "mynt.xyz"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-23"
   },
   {
     "name": "CoinDCX Vulnerability Disclosure",

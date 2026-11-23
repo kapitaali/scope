@@ -343,10 +343,6 @@ app*.hubspot.com
 *.verilyme.com
 *.varonis.com
 *.varonis.io
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
@@ -1076,6 +1072,16 @@ sks-*.exo.io
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.latchapp.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
