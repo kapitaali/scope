@@ -49,10 +49,6 @@ vp-*.kohls.com
 wfh*.kohls.com
 *-sdb.kucoin.com
 *-sandbox.kucoin.com
-auth.*.latitudefinancial.com
-*.latitudefs.com
-*.my.latitudepay.com
-*.sg.latitudepay.com
 *.airflow.limeinternal.com
 *.limeinternal.com
 *.lime.bike
@@ -220,6 +216,7 @@ gogo*.com
 *.olaplex.de
 *.olaplex.es
 *.olaplexusers.com
+*.opx.tc
 *.account.docusign.com
 *.partners.wavelo.com
 *.tucows.com
