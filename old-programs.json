@@ -2200,20 +2200,6 @@
     "last_updated": "2026-10-08"
   },
   {
-    "name": "Challenge 1126",
-    "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
-    "logo": "https://login.intigriti.com/apple-touch-icon.png",
-    "platform": "Intigriti",
-    "reward": "€0",
-    "inscope_domains": [
-      "https://challenge-1126.challenges.intigriti.io/"
-    ],
-    "outofscope_domains": [],
-    "issues_reported": [],
-    "scamhit": "",
-    "last_updated": "2026-11-17"
-  },
-  {
     "name": "Citymesh Responsible Vulnerability Disclosure Program",
     "program_url": "https://www.intigriti.com/programs/citymesh/responsiblevulnerabilitydisclosureprogram/detail",
     "logo": "https://login.intigriti.com/apple-touch-icon.png",
@@ -65822,6 +65808,20 @@
     "issues_reported": [],
     "scamhit": "",
     "last_updated": "2026-10-08"
+  },
+  {
+    "name": "Challenge 1126",
+    "program_url": "https://www.intigriti.com/programs/intigriti/challenge1126/detail",
+    "logo": "https://login.intigriti.com/apple-touch-icon.png",
+    "platform": "Intigriti",
+    "reward": "€0",
+    "inscope_domains": [
+      "https://challenge-1126.challenges.intigriti.io/"
+    ],
+    "outofscope_domains": [],
+    "issues_reported": [],
+    "scamhit": "",
+    "last_updated": "2026-11-17"
   },
   {
     "name": "Skoda Auto Bug Bounty Program",

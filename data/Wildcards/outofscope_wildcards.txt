@@ -405,7 +405,6 @@ marketplace-*.freshworks.com
 *.chealth.io
 *.currenthealth.com
 *.snap40.com
-*.oasisprotocol.org
 *.atp-exodus.com
 *.grateful.me
 *.mtnfootball.com
@@ -469,6 +468,7 @@ marketplace-*.freshworks.com
 *.wlnp.att.com
 *.workdayinfortraining.att.com
 *tworks-att.com
+*solidus.io
 *.citymapper.com
 *.drivewithvia.com
 *.criticalstack.com
@@ -671,7 +671,6 @@ e.g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -705,6 +704,7 @@ e.g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
+*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io
