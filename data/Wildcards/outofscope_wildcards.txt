@@ -271,7 +271,6 @@ db.*.supabase.co
 *.supabase.co
 *.cyral.com
 *.varonis-preprod.com
-*.cadastro.uat.unico.app
 *.ito.singlestore.com
 *.labs.singlestore.com
 *.rentals.rei.com
@@ -704,7 +703,6 @@ e.g.*.slackhq.com
 *.connect.coca-cola.com
 *.crewconnect.coca-cola.com
 *.zimpler.com
-*.uphodl.com
 shop.*.be
 *.zabka-snrs.zabka.pl
 *.intigriti.io

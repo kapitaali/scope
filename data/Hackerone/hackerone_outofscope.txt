@@ -422,9 +422,6 @@ advisoryworld.com
 *.cyral.com
 *.varonis-preprod.com
 issue-management.iontrading.com
-*.cadastro.uat.unico.app
-devcenter.unico.io
-uconf.uat.unico.app
 docs.wallet.tg
 toncenter.walletbot.me
 wallet.helpscoutdocs.com
