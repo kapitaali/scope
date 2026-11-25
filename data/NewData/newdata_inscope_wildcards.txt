@@ -1,4 +1,10 @@
-*.atlantichealthvirtualcare.org
-*.uvahealthpcod.org
-*.topperpay.com
-*.uphold.com
+*.klubcinema.fr
+*.megatix.be
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
