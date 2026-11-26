@@ -666,7 +666,6 @@ e.g.*.slackhq.com
 *.swop.com
 *.configuratoren.nl
 *.zoofy.nl
-*.cineramabios.nl
 *.lxc.liferay.com
 *.monzo.me
 *.nexuzhealth.pro
@@ -2062,12 +2061,6 @@ request-headers-no-proxy.moonpay.com
 request-headers.moonpay.com
 storefront.hypermint.com
 support.moonpay.com
-bot.cadburygifting.in
-gifts.tatesbakeshop.com
-cadburygifting.in
-lojamondelez.com.br
-lu.fr
-mavieencouleurs.fr
 api-an.capitalone.com
 autodiscover.apnic.net
 enterpriseenrollment.apnic.net
@@ -3644,15 +3637,6 @@ mail.gamma.be
 mail.gamma.nl
 mail.karwei.nl
 trismegistos.org
-dev.kinepolis.com
-helpdesk.landmarkcinemas.com
-jobs.kinepolis.com
-l.kinepolis.com
-openx.kinepolis.com
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
 careers.kiwa.com
 qr.kiwa.com
 kiwa.com
