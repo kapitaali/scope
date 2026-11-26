@@ -3668,11 +3668,6 @@ pro.nexuzhealth.hn
 nexuzhealth.atlassian.net
 media.nexuzhealth.be
 idp-contact.nexuzhealth.be
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
-store.ninjakiwi.com
-support.ninjakiwi.com
-icarusadmin.ninjakiwi.com
 a.simplemdm.com
 personio.de
 personio.slack.com
@@ -3883,6 +3878,11 @@ incamail-dev.post.ch
 incamail-test.post.ch
 service.post.ch
 pccweb.api.post.ch
+mediearkivet.telenor.se
+tseflowscape.telenor.se
+merchportal.telenor.se
+villafiber.telenor.se
+careers.telenor.se
 vdp.telenor.se
 tc.ownit.se
 butik.vimla.se
